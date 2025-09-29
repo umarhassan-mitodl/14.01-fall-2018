@@ -4,6 +4,8 @@ description: ''
 file: /courses/14-01-principles-of-microeconomics-fall-2018/7826d251f0f4f02abb216f7ca1ee2ce1_lecture_room.jpg
 file_size: 79861
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

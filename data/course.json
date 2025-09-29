@@ -23,8 +23,8 @@
     "website": "14-01-principles-of-microeconomics-fall-2018"
   },
   "course_title": "Principles of Microeconomics",
-  "hide_download": false,
-  "course_description": "This introductory undergraduate course covers the fundamentals of microeconomics. Topics include supply and demand, market equilibrium, consumer theory, production and the behavior of firms, monopoly, oligopoly, welfare economics, public goods, and externalities.\u00a0\n\n**Chalk Radio Podcast**\n\nProf. Jonathan Gruber was featured in an episode of OpenCourseWare's podcast, {{% resource_link \"2482bb2f-4b8d-4e9c-afd9-a0260116639c\" \"Chalk Radio\" %}}. In the episode \"Thinking Like an Economist,\" Prof. Gruber talks about how he engages students in 14.01 with accessible real world examples. Listen to the episode on {{% resource_link \"7583b451-7e11-46b1-bfa7-6016e67b5180\" \"Apple Podcasts\" %}}.\n\n**MITx Online Version**\n\nThis course is part of the Micromaster\u2019s Program in Data, Economics, and Design of Policy through MITx Online. The course is entirely free to audit, though learners have the option to pay a fee, which is based on the learner's ability to pay, to take the proctored exam, and earn a course certificate. To access the course, create an MITx Online account and enroll in the course {{% resource_link \"330ec4b0-0338-4aa3-b91f-b93b6b751723\" \"14.100x Microeconomics\" %}}.",
+  "hide_download": true,
+  "course_description": "This introductory undergraduate course covers the fundamentals of microeconomics. Topics include supply and demand, market equilibrium, consumer theory, production and the behavior of firms, monopoly, oligopoly, welfare economics, public goods, and externalities.\u00a0\n\n**Chalk Radio Podcast**\n\nProf. Jonathan Gruber was featured in an episode of OpenCourseWare's podcast, [Chalk Radio](https://chalk-radio.simplecast.com/). In the episode \"Thinking Like an Economist,\" Prof. Gruber talks about how he engages students in 14.01 with accessible real world examples. Listen to the episode on [Apple Podcasts](https://podcasts.apple.com/us/podcast/chalk-radio/id1497545103).\n\n**MITx Online Version**\n\nThis course is part of the Micromaster\u2019s Program in Data, Economics, and Design of Policy through MITx Online. The course is entirely free to audit, though learners have the option to pay a fee, which is based on the learner's ability to pay, to take the proctored exam, and earn a course certificate. To access the course, create an MITx Online account and enroll in the course [14.100x Microeconomics](https://mitxonline.mit.edu/courses/course-v1:MITxT+14.100x/?utm_medium=ocw-website&utm_source=ocw-website&utm_campaign=dedp&utm_content=ocw-page-microeconomics).",
   "department_numbers": [
     "14"
   ],
@@ -34,6 +34,7 @@
     "content": "17a5cdfd-502f-d717-25ee-d44532477a0a",
     "website": "14-01-principles-of-microeconomics-fall-2018"
   },
+  "hide_download_original": false,
   "learning_resource_types": [
     "Lecture Videos",
     "Problem Sets with Solutions",
