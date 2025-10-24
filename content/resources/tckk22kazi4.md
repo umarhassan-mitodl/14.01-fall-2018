@@ -4,8 +4,6 @@ description: ''
 file: /courses/14-01-principles-of-microeconomics-fall-2018/432de58130f3a1d12288024a5344cd48_tCKk22kaZi4.srt
 file_size: 75582
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
