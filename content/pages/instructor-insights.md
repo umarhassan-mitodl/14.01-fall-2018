@@ -17,7 +17,7 @@ Below, Professor Jonathan Gruber describes various aspects of how he teaches _14
 
 {{< quote "You only really understand something when you go out in the real world and apply it." "— Prof. Jonathan Gruber" >}}
 
-Professor Gruber wants to train students to think like economists. Economics uses elegant mathematical models to explain how people make decisions and allocate their resources—but all too often those models are taught in ways that remain disconnected from students’ own experience. In an interview on OCW’s [Chalk Radio podcast](https://chalk-radio.simplecast.com/episodes/thinking-like-an-economist-with-prof-jonathan-gruber), Professor Gruber shares his thoughts on bridging that gap in his course _14.01 Introductory Microeconomics_ (the name given to _14.01 Principles of Microeconomics_ in its version on the MITx platform). He says he tries to anchor learning with real-world examples; as he explains, “You only really understand something when you go out in the real world and apply it.” And those examples, he says, have to be relatable. So rather than discussing companies none of his students have heard of or commodities nobody cares about, he illustrates fundamental economic concepts with examples like Kim Kardashian’s exercise corset, Uber’s policy of surge pricing, and LeBron James’s decision not to attend college. By engaging students with accessible examples of economic principles in action, Professor Gruber helps them develop economic intuition—a sense of how the mathematical models apply in the real, seemingly chaotic world.
+Professor Gruber wants to train students to think like economists. Economics uses elegant mathematical models to explain how people make decisions and allocate their resources—but all too often those models are taught in ways that remain disconnected from students’ own experience. In an interview on OCW’s {{% resource_link "4504ba5f-8649-4d9f-a767-9588c011813e" "Chalk Radio podcast" %}}, Professor Gruber shares his thoughts on bridging that gap in his course _14.01 Introductory Microeconomics_ (the name given to _14.01 Principles of Microeconomics_ in its version on the MITx platform). He says he tries to anchor learning with real-world examples; as he explains, “You only really understand something when you go out in the real world and apply it.” And those examples, he says, have to be relatable. So rather than discussing companies none of his students have heard of or commodities nobody cares about, he illustrates fundamental economic concepts with examples like Kim Kardashian’s exercise corset, Uber’s policy of surge pricing, and LeBron James’s decision not to attend college. By engaging students with accessible examples of economic principles in action, Professor Gruber helps them develop economic intuition—a sense of how the mathematical models apply in the real, seemingly chaotic world.
 
 {{< simplecast 9a268aeb-786b-4b91-8870-182889f8804a >}}
 
@@ -31,8 +31,8 @@ None, although some calculus at the level of [_18.01 Single Variable Calculus_](
 
 - GIR ![](/images/educator/icon-question-gir.png)
 - HASS ![](/images/educator/icon-question-hass.png)
-- [Economics bachelor’s degree requirement](https://economics.mit.edu/under/majors/14-1)
-- [Planning bachelor’s degree requirement](http://catalog.mit.edu/degree-charts/planning-course-11/)
+- {{% resource_link "0583e3f5-48a9-493e-aeab-6142f70e897a" "Economics bachelor’s degree requirement" %}}
+- {{% resource_link "3834e160-04f8-4581-b8f6-0df72719dc3d" "Planning bachelor’s degree requirement" %}}
 
 ### Offered
 
